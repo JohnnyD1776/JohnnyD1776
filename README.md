@@ -16,9 +16,9 @@
 
 👀 My interests include Coding, Tech, AI, Small Business Enterprise, Skiing, and spending time with my family.
 
-😄 Pronouns: He/Him
+😄 Pronouns: British Dev Dude
 
-⚡ Fun fact: My first computer was an Intel 80386 33Mhz DX with 4MB of RAM, housed in a cardboard box. I once spent £80 for an extra 4MB of RAM just to play Doom.
+⚡ Fun fact: My first computer was an Intel 80386 33Mhz DX with 4MB of RAM, housed in a cardboard box. I once spent £80 for an extra 4MB of RAM just to play Doom. `Config.sys` and `autoexec.bat` anyone?
 
 Checkout one of my apps on the app store:
 [PoeticÁI - An AI poetry app built using ChatGPT API](https://apps.apple.com/us/app/poeticái/id6445949096)
