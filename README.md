@@ -1,19 +1,26 @@
-- 👋 Hi, I’m @JohnnyD1776.
+👋 Hi, I’m @JohnnyD, a seasoned iOS and Mac App Developer.
 
-- I am a Professional iOS developer working on production level mobile products within Agile teams. I have strong Swift/SwiftUI/UIKit programming experience and computer principles knowledge.
+🌱 Skilled in Swift, SwiftUI, UIKit, and all things Apple ecosystems.
 
-- Passionate about SwiftUI development, I write the occasional blog post of my experiences which can be read at http://medium.com/@britishdevdiary.
+💞️ Open for collaborations on exciting iOS App projects and available for freelance work.
 
-- Creator of an AI Poetry App PoeticÁI for iOS, I also provide freelance and an App Consultation service.
+📫 Connect with me on [LinkedIn](http://linkedin.com/in/john-durcan/)
 
-- If you're looking for a consultation, my passion for good design principles and adherence to Apple design guidelines ensures my work is both visually appealing and user-friendly.
+📖 Check out my articles at [British Dev Diaries](https://medium.com/@britishdevdiary)
 
-- With essential UX/UI design skills I am able to create initial app prototypes for individuals and small businesses looking to establish a presence on the iOS App Store.
+☕ Support my development journey on [Ko-fi](https://ko-fi.com/britishdevdiary).
 
-- If you're looking for a skilled developer to build your next app prototype, join your team, or consult on initial ideas, please don't hesitate to contact me.
+🏁 I started programming at 15 with Windows Batch Scripts. After co-founding a marketing agency, I pivoted to programming in 2019, creating my first UIKit App.
 
-- I am available for freelance work via my own Ltd. company with an Apple Developer Company Account.
+💡I love the challenge and learning curve of programming, especially aligning business needs with the technical capabilities of iOS and Mac apps.
 
-- I look forward to hearing from you.
+👀 My interests include Coding, Tech, AI, Small Business Enterprise, Skiing, and spending time with my family.
 
-Reach me at my LinkedIn profile here: [https://www.linkedin.com/in/john-durcan/](https://www.linkedin.com/in/john-durcan/)
+😄 Pronouns: He/Him
+
+⚡ Fun fact: My first computer was an Intel 80386 33Mhz DX with 4MB of RAM, housed in a cardboard box. I once spent £80 for an extra 4MB of RAM just to play Doom.
+
+Checkout one of my apps on the app store:
+[PoeticÁI - An AI poetry app built using ChatGPT API](https://apps.apple.com/us/app/poeticái/id6445949096)
+
+![PoeticÁI](http://poeticai.info/wp-content/uploads/sites/2/2023/03/previewed.png)
