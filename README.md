@@ -1,26 +1,36 @@
-👋 Hi, I’m @JohnnyD1776, a seasoned iOS and Mac App Developer.
+# Hi, I'm John Durcan
 
-🌱 Skilled in Swift, SwiftUI, UIKit, and all things Apple ecosystems.
+Fractional senior iOS engineer based in Farnham, UK. I keep production iOS
+apps shipping.
 
-💞️ Open for collaborations on exciting iOS App projects and available for freelance work.
+Currently senior iOS at OANDA, where I led the migration of their crypto
+trading app from UIKit to SwiftUI. Before that: four years contracting
+(Cazoo, Allplants and a dozen other clients) and twelve years co-running an
+agency, so I'm as comfortable scoping work and talking to stakeholders as I
+am in Xcode.
 
-📫 Connect with me on [LinkedIn](http://linkedin.com/in/john-durcan/)
+## What I do for clients
 
-📖 Check out my articles at [British Dev Diaries](https://medium.com/@britishdevdiary)
+Everything runs through [itch.studio](https://itch.studio):
 
-☕ Support my development journey on [Ko-fi](https://ko-fi.com/britishdevdiary).
+- **iOS App Health Check**: a fixed-price, one-week audit of your live app.
+  SDK and deprecation risk, crashes, App Store compliance, and a prioritised
+  fix list you own either way.
+- **Care plans**: ongoing maintenance for companies with a live iOS app and
+  nobody in-house looking after it.
+- **AI Feature Sprint**: one AI feature, scoped and shipped inside your
+  existing app in 4-6 weeks at a fixed price. Production LLM features, MCP
+  tooling, and private on-device setups for data that can't leave the
+  building.
+- **Fractional senior iOS**: 24 hours available per week, outside IR35.
 
-🏁 I started programming at 15 with Windows Batch Scripts. After co-founding a marketing agency, I pivoted to programming in 2019, creating my first UIKit App.
+## Proof
 
-💡I love the challenge and learning curve of programming, especially aligning business needs with the technical capabilities of iOS and Mac apps.
+Six apps built end to end (design, code, App Store, support inbox), five
+live on the App Store: PoeticÁI, UI Colour Palette Designer, Bluetooth Itch
+and Aura Pool and Bark Back with TimerStack in beta.
 
-👀 My interests include Coding, Tech, AI, Small Business Enterprise, Skiing, and spending time with my family.
+## Get in touch
 
-😄 Pronouns: British Dev Dude
-
-⚡ Fun fact: My first computer was an Intel 80386 33Mhz DX with 4MB of RAM, housed in a cardboard box. I once spent £80 for an extra 4MB of RAM just to play Doom. `Config.sys` and `autoexec.bat` anyone?
-
-Checkout one of my apps on the app store:
-[PoeticÁI - An AI poetry app built using ChatGPT API](https://apps.apple.com/us/app/poeticái/id6445949096)
-
-![PoeticÁI](http://poeticai.info/wp-content/uploads/sites/2/2023/03/previewed.png)
+- [itch.studio](https://itch.studio) for the Health Check and care plans
+- [LinkedIn](https://www.linkedin.com/in/john-durcan/)
