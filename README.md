@@ -27,8 +27,8 @@ Everything runs through [itch.studio](https://itch.studio):
 ## Proof
 
 Six apps built end to end (design, code, App Store, support inbox), five
-live on the App Store: PoeticÁI, UI Colour Palette Designer, Bluetooth Itch
-and Aura Pool and Bark Back with TimerStack in beta.
+live on the App Store: PoeticÁI, UI Colour Palette Designer, Bluetooth Itch,
+Aura Pool and Bark Back with TimerStack in beta.
 
 ## Get in touch
 
